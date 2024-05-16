@@ -1,0 +1,5 @@
+name = input("Give me you name: ")
+age = int(input("How old are you? "))
+trun = int(100 - age)
+trun1 = int(2024 + trun)
+print("Mr",name,"you will turn 100 years old in",trun1 )
