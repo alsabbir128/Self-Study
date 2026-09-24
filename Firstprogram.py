@@ -20,7 +20,7 @@ print(a <= b) #false
 print(a < b) #false
 
 #assignment operators
-num=10
+num=20
 num= num + 10
 num += 10
 print("num :",num)
